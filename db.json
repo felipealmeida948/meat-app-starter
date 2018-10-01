@@ -31,16 +31,6 @@
       "hours": "Funciona de segunda à sábado, de 6h às 22h"
     },
     {
-      "id": "green-food",
-      "name": "Green Food",
-      "category": "Saudável",
-      "deliveryEstimate": "75m",
-      "rating": 4.1,
-      "imagePath": "assets/img/restaurants/greenfood.png",
-      "about": "Comida saudável é no Green Food. Compramos barato, vendemos caro. ;)",
-      "hours": "Somente em horário de almoço, das 11h às 15h"
-    },
-    {
       "id": "ice-cream",
       "name": "Ice Cream",
       "category": "Ice Creams",
@@ -167,14 +157,6 @@
       "restaurantId": "ice-cream"
     },
     {
-      "id": "chocpop",
-      "imagePath": "assets/img/foods/chocpop.png",
-      "name": "Picolé de Brigadeiro",
-      "description": "Picolé de brigadeiro recheado com côco.",
-      "price": 8.5,
-      "restaurantId": "ice-cream"
-    },
-    {
       "id": "icestd.png",
       "imagePath": "assets/img/foods/icestd.png",
       "name": "Sorvete Simples",
@@ -216,13 +198,6 @@
       "restaurantId": "bread-bakery"
     },
     {
-      "name": "Aline",
-      "date": "2016-12-12T18:25:43",
-      "rating": 3,
-      "comments": "NÃO recomendo. O recheio é só um creme, não tem camarão e nem carne",
-      "restaurantId": "bread-bakery"
-    },
-    {
       "name": "Renata",
       "date": "2016-12-12T18:25:43",
       "rating": 2,
@@ -241,13 +216,6 @@
       "date": "2017-01-23T18:25:43",
       "rating": 4,
       "comments": "Sanduíche muito bom! Já pedi diversas vezes sempre bom!",
-      "restaurantId": "burger-house"
-    },
-    {
-      "name": "Laila",
-      "date": "2017-02-02T18:25:43",
-      "rating": 5,
-      "comments": "Melhor hambúrguer que já provei. Vai ser difícil voltar para mc e bk",
       "restaurantId": "burger-house"
     },
     {
@@ -293,13 +261,6 @@
       "restaurantId": "coffee-corner"
     },
     {
-      "name": "João",
-      "date": "2017-01-23T18:25:43",
-      "rating": 5,
-      "comments": "Excelente. Fiz o pedido com outro endereço e quando vi o erro liguei avisando. O motoqueiro cortou a cidade todinha e a comida ainda chegou quentinha (e deliciosa). Estou sempre pedindo e recomendando",
-      "restaurantId": "green-food"
-    },
-    {
       "name": "Marcelo",
       "date": "2017-02-02T18:25:43",
       "rating": 4.5,
@@ -318,13 +279,6 @@
       "date": "2017-02-02T18:25:43",
       "rating": 2.5,
       "comments": "Esperar 1:45hr pra receber o pedido é INACEITÁVEL",
-      "restaurantId": "ice-cream"
-    },
-    {
-      "name": "Jacira",
-      "date": "2017-02-01T18:25:43",
-      "rating": 4.5,
-      "comments": "Veio OK!",
       "restaurantId": "ice-cream"
     },
     {
@@ -353,13 +307,6 @@
       "date": "2017-01-12T18:25:43",
       "rating": 5,
       "comments": "Chegou rápido e perfeito!",
-      "restaurantId": "tasty-treats"
-    },
-    {
-      "name": "Julia",
-      "date": "2016-12-12T18:25:43",
-      "rating": 1.5,
-      "comments": "Sempre gostei muito dos pedidos que eu fiz, mas dessa vez foi péssimo e decepcionou muito. Demorou 30min a mais pra chegar do que o tempo máximo esperado.",
       "restaurantId": "tasty-treats"
     },
     {
